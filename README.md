@@ -2,7 +2,7 @@
 
 > This module is an initial Drupal 8 port of [Parallax Background](https://www.drupal.org/project/parallax_bg) module.
 
-This a simple module that allows to set a vertical [Parallax](http://en.wikipedia.org/wiki/Parallax) effect on the background of any element on the DOM.
+This a simple module that allows to set a vertical [Parallax effect](https://ianlunn.co.uk/plugins/jquery-parallax/) on the background of any element on the DOM.
 
 #### Installation
 
@@ -12,9 +12,9 @@ This a simple module that allows to set a vertical [Parallax](http://en.wikipedi
 
 **They should look like this:**
 
-/libraries/jquery.parallax/jquery.parallax.js
-/libraries/jquery.localScroll/jquery.localScroll.min.js
-/libraries/jquery.scrollTo/jquery.scrollTo.min.js
+- /libraries/jquery.parallax/jquery.parallax.js
+- /libraries/jquery.localScroll/jquery.localScroll.min.js
+- /libraries/jquery.scrollTo/jquery.scrollTo.min.js
 
 - Finally, install **parallax_bg** module
 
