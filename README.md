@@ -9,14 +9,13 @@ This a simple module that allows to set a vertical [Parallax effect](https://ian
 - Download [jquery.parallax](https://ianlunn.co.uk/plugins/jquery-parallax/scripts/jquery.parallax-1.1.3.js) library to **/libraries/jquery.parallax/** folder
 - Download [jquery.localScroll](https://github.com/flesler/jquery.localScroll/releases/tag/1.4.0) library and unzip files to **/libraries/jquery.localScroll/** folder
 - Download [jquery.scrollTo](https://github.com/flesler/jquery.scrollTo/releases/tag/2.1.2) library and unzip files to **/libraries/jquery.scrollTo/** folder
-
-**They should look like this:**
-
-- /libraries/jquery.parallax/jquery.parallax.js
-- /libraries/jquery.localScroll/jquery.localScroll.min.js
-- /libraries/jquery.scrollTo/jquery.scrollTo.min.js
-
 - Finally, install **parallax_bg** module
+
+**Downloaded libraries should look like this:**
+
+ - /libraries/jquery.parallax/jquery.parallax.js
+ - /libraries/jquery.localScroll/jquery.localScroll.min.js
+ - /libraries/jquery.scrollTo/jquery.scrollTo.min.js
 
 #### Configuration
 
