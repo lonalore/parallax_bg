@@ -28,7 +28,7 @@
           .find(element.selector)
           .once('init-parallax-background')
           .each(function () {
-            $(this).parallax(element.position, parseFloat(element.speed));
+            $(this).parallax(element.position, -parseFloat(element.speed));
           });
       });
     }
