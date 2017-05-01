@@ -21,7 +21,9 @@
         return;
       }
 
-      $.each(settings['parallax_bg'], function (element) {
+      $.each(settings['parallax_bg'], function () {
+        var element = this;
+
         $(context)
           .find(element.selector)
           .once('init-parallax-background')
