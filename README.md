@@ -1,6 +1,6 @@
 # Parallax Background
 
-> This module is an initial Drupal 8 port of [Parallax Background](https://www.drupal.org/project/parallax_bg) module.
+> This module is an initial Drupal 8 port of [Parallax Background](https://www.drupal.org/project/parallax_bg) module. See [Issue #2861714](https://www.drupal.org/node/2861714) on drupal.org.
 
 This a simple module that allows to set a vertical [Parallax effect](https://ianlunn.co.uk/plugins/jquery-parallax/) on the background of any element on the DOM.
 
